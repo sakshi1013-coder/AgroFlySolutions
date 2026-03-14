@@ -19,29 +19,6 @@ This repository contains a comprehensive data analysis and interactive dashboard
 - **Matplotlib & Seaborn** (for data visualization)
 - **Jupyter Notebook** (Initial analysis sandbox)
 
-## ⚙️ Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/sakshi1013-coder/AgroFlySolutions.git
-   cd AgroFlySolutions
-   ```
-
-2. **Install the required dependencies:**
-   Ensure you have Python installed, then run:
-   ```bash
-   pip install streamlit pandas numpy matplotlib seaborn openpyxl
-   ```
-   *(Note: `openpyxl` is required to read the Financial Analysis Excel file.)*
-
-3. **Run the Dashboard:**
-   Start the Streamlit development server:
-   ```bash
-   streamlit run app.py
-   ```
-
-4. **View the App:**
-   Open your browser and navigate to `http://localhost:8501`.
 
 ## 📁 Project Structure
 
